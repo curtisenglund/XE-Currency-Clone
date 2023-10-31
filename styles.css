@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.selected {
+    background-color: white;
+    border-radius: 0.5rem 0.5rem 0px 0px;
+}
+
+.hidden {
+    display: non;
+}
